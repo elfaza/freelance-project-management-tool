@@ -44,6 +44,7 @@ uploads/
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+types/
 
 # Package manager caches
 .npm/
